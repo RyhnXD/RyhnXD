@@ -9,7 +9,7 @@
 
 - ðŸ‘€ I'm currently focusing on **JavaScript**.
 
-- ðŸ¤— Follow Account Github on [`@Johannes2803`](https://github.com/RyhnXD/) 
+- ðŸ¤— Follow Account Github on [`@RyhnXD`](https://github.com/RyhnXD/) 
 
 <p align="center">
   <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript" />
