@@ -1,61 +1,61 @@
-### Hi there, I'm RyhnXD ðŸ‘‹
-<p align="center">
-    <img src="https://telegra.ph/file/e86be58bc09dfba470cbc.jpg" width="100%" style="margin-left: auto;margin-right: auto;display: block;">
-</p>
-<h1 align="center">IM RyhnXD</h1>
-<p align="center">
-  <a href="https://github.com/RyhnXD"><img src="http://readme-typing-svg.herokuapp.com?color=FFFFFF&center=true&vCenter=true&multiline=false&lines=Hanz;Base+ori+by+BochilGaming;Recode+By+Hanz;Give+star+and+forks+this+Repo+:D;Follow+My+Github" alt="UwU">
-</p>
+### Hi there ðŸ‘‹
+<h1 align="center">ãƒ¨ãƒãƒã‚¹<img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="40px" alt="hi"><br>Ryhn Desu!</h1>
 
 <p align="center">
- <a href="#"><img title="RyhnXD" src="https://img.shields.io/badge/RyhnXD-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<img src="https://i.pinimg.com/originals/94/e7/21/94e721efd82d3aba7e7da4a0bde1b036.jpg" width="100%" alt="API Giphy logo"/>
 </p>
+
+- ðŸŒ± Iâ€™m currently learning **nothing**.
+
+- ðŸ‘€ I'm currently focusing on **JavaScript**.
+
+- ðŸ¤— Follow Account Github on [`@Johannes2803`](https://github.com/RyhnXD/) 
+
 <p align="center">
-<a href="https://github.com/BaraXD"><img title="Author" src="https://img.shields.io/badge/AUTHOR-RyhnXD-blue.svg?style=for-the-badge&logo=github"></a>
+  <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript" />
+  <img src="https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=Node.js" />
+  <img src="https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5&logoColor=e34f26" />
+  <img src="https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3&logoColor=1572b6" />
+  <img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git" />
+  <img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github" /> <br>
+  <img src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=python" />
+  <img src="https://img.shields.io/badge/-React-black?style=flat-square&logo=react" />
+  <img src="https://img.shields.io/badge/-Redux-black?style=flat-square&logo=redux" />
+  <img src="https://img.shields.io/badge/-Windows-black?style=flat-square&logo=windows" />
+  <img src="https://img.shields.io/badge/-VS_Code-black?style=flat-square&logo=visual-studio-code" />
+  <img src="https://img.shields.io/badge/-SQLite3-black?style=flat-square&logo=sqlite" />
 </p>
 
----------
-## ```Connect With Me ðŸ“ž``` <img src="https://github.com/siegrin/siegrin/blob/main/Assets/Handshake.gif" height="32px">
-  <a href="https://wa.me/62895627514070">
-    <img align="left" alt="SIEGRIN | Whastapp" width="26px" src="https://github.com/siegrin/siegrin/blob/main/Assets/Whatsapp.svg" />
-  </a> &nbsp;&nbsp;
-  <a href="https://www.tiktok.com/@lampu_slebew">
-    <img align="left" alt="SIEGRIN | Titkok" width="26px" src="https://github.com/siegrin/siegrin/blob/main/Assets/Tiktok.svg" />
-  </a> &nbsp;&nbsp;
-  <a href="https://www.instagram.com/lampu_philips267">
-    <img align="left" alt="SIEGRIN | Instagram" width="24px" src="https://github.com/siegrin/siegrin/blob/main/Assets/Instagram.svg" />
-  </a> &nbsp;&nbsp;
----------
-
-## ```Whatsapp``` <a href="https://wa.me/62895627514070"> <img align="left" alt="SIEGRIN | Whastapp" width="26px" src="https://github.com/siegrin/siegrin/blob/main/Assets/Whatsapp.svg" />
-[![BOT WHATSAPP](https://img.shields.io/badge/WhatsApp%20BOT-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/62895627514070) 
-[![ONWER](https://img.shields.io/badge/Owner%20BOT-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/62895627514070) 
----------
-
-
-
-## ```Thanks to âœ¨```
-* [`Allah SWT`](https://github.com/Ikymd)
-* [`My parents`](https://github.com/Ikymd)
-* [`All Friends`](https://github.com/Ikymd)
-* [`All Contributors`](https://github.com/Ikymd)
-* [`All Creator Bot`](https://github.com/Ikymd)
-* [`Adiwajshing`](https://github.com/adiwajshing/Baileys)
-* [`Nurutomo`](https://github.com/nurutomi)
-* [`BochilGaming`](https://github.com/bochilgaming)
-
-## ```Contributor ðŸ”­```
-* [`SadBOY01`](https://github.com/sadboy01)
-* [`RyhnXD`](https://github.com/RyhnXD)
-### and here is my stats
-<p align="center"><img src="https://www.codewars.com/users/SatriaAPN/badges/large"/><br /><br />
-  <img src="https://github-readme-stats.vercel.app/api?username=SatriaAPN&show_icons=true&include_all_commits=true&theme=monokai" alt="hossein heydari's GitHub stats" /><br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SatriaAPN&theme=monokai"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SatriaAPN&layout=compact&theme=monokai&langs_count=12"/><br />
+<p align="center">
+  <a href="https://github.com/Johannes2803"><img src="https://github-readme-stats.vercel.app/api?username=Johannes2803&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff&hide_border=true&show_icons=true" /></a>
 </p>
+
+<p align="center">
+  <a href="https://github.com/Johannes2803"><img src="https://github-readme-stats.vercel.app/api/top-langs?usernameJohannes2803&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&hide_border=true&show_icons=true&layout=compact" /></a>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=juicyfresh" /><a>
+</p>
+
+<p align="center">
+   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Johannes2803" />
+</p>
+
+<p align="center">
+  <a href="https://youtube.com/channel/UC0hs_I8N3JntK5vO6KogavQ"><img src="https://img.shields.io/badge/YouTube-Johannes-ff0000?style=for-the-badge&logo=youtube&logoColor=ff0000&link=https://youtu.be/DfgBY51sHZA" /></a>
+  <a name=Johannes&label=VIEWS&style=flat-square&color=orange" />
+
+</p> 
+ #sosial media
+
+
+* [`WhatsApp Admin `](https://wa.me/62895627514070)
+                                                  
+* [`Rest Api`](https://api-johannes.herokuapp.com)
 
 <!--
-**SatriaAPN/SatriaAPN** is a âœ¨ _special_ âœ¨ repository because its `README.md` (this file) appears on your GitHub profile.
+**RyhnXD/RyhnXD** is a âœ¨ _special_ âœ¨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
