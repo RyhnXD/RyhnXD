@@ -42,10 +42,6 @@
    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Johannes2803" />
 </p>
 
-<p align="center">
-  <a href="https://youtube.com/channel/UC0hs_I8N3JntK5vO6KogavQ"><img src="https://img.shields.io/badge/YouTube-Johannes-ff0000?style=for-the-badge&logo=youtube&logoColor=ff0000&link=https://youtu.be/DfgBY51sHZA" /></a>
-  <a name=Johannes&label=VIEWS&style=flat-square&color=orange" />
-
 </p> 
  #sosial media
 
